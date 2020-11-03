@@ -3,7 +3,9 @@ Excel Add in functions to count unique items based on criteria
 
 XLAM file containing the following Functions.
  CountUnique(Range)
+ 
  CountUniqueIF(Range, criteria)
+ 
  CountUniqueIFS(Range, cell from Result column, 1 or more criteria)
 
 I created this to work out how many of each sample type we would receive in a day based from our received schedule file.
